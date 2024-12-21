@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Vinith Kumar
 
 Software Engineer -> Python Developer
-<img  align="right" width="300" height="250" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">                                               
+<img  align="right" width="300" height="200" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">                                               
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
 - 💬 Ask me about Tech
