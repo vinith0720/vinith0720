@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Vinith Kumar
 
-Software Engineer -> Python Developer
+Software Engineer -> JS & Python Developer
 <img  align="right" width="300" height="200" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">                                               
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
